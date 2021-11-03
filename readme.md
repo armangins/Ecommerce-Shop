@@ -10,7 +10,7 @@
 ## About Laravel
 
 
-| Dashboard  | Main |
+|   | |
 | :------------ |:---------------:|
 | ![](public/Images/laravel.png)   | ![](public/Images/laravel2.png) |
 
